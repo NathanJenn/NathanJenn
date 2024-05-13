@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="100%" height="100%" viewBox="0 0 1600 1300" version="1.1" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group" transform="matrix(1,0,0,1,115,205.5)">
+    <g transform="matrix(1.14529,0,0,1.10832,-435.908,-262.986)">
+      <path d="M362.329,461.079L362.329,318.519L406.549,439.959L437.569,439.959L481.789,318.519L481.789,461.079L524.689,461.079L524.689,230.079L476.509,230.079L422.059,374.289L367.609,230.079L319.429,230.079L319.429,461.079L362.329,461.079Z" style="fill:rgb(249,249,250);fill-rule:nonzero;stroke:rgb(239,221,218);stroke-opacity:0.0980392;stroke-width:0.89px;"/>
+    </g>
+    <g transform="matrix(1.16642,0,0,1.12876,937.777,-387.366)">
+      <path d="M368.599,338.649L307.879,338.649L307.879,374.289L368.599,374.289L368.599,435.009L404.239,435.009L404.239,374.289L464.959,374.289L464.959,338.649L404.239,338.649L404.239,277.929L368.599,277.929L368.599,338.649Z" style="fill:rgb(249,249,250);fill-rule:nonzero;stroke:rgb(239,221,218);stroke-opacity:0.0980392;stroke-width:0.87px;"/>
+    </g>
+    <text style="fill: rgb(249, 249, 250); font-family: Arial, sans-serif; font-size: 150px; white-space: pre;" transform="matrix(2.40133, 0, 0, 2.110423, -1696.282349, -1199.491943)" x="1180.32" y="1043.79">A</text>
+  </g>
+</svg>
