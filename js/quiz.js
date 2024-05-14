@@ -1,15 +1,15 @@
 var counter = 0;
 var right = 0;
 var questions = [
-    ["Where did Michael & Arielle meet?", "Leeds, England", "Newcastle, Australia", "Saskatchewan, Canada", "Lyons, France", "1"],
-    ["What is Michael & Arielle's favourite Starbucks drink (sorry Australian coffee snobs)?", "Brown sugar oat shaken espresso", "Cappuccino", "Iced chai tea latte", "Pumpkin spice latte", "1"],
-    ["How many states/provinces around the world have Michael & Arielle travelled to?", "3", "15", "10", "7", "3"],
-    ["Where did we get engaged?", "Chilliwack", "East Maitland", "Sydney", "Port Macquarie", "4"],
-    ["Who took one month to unpack after Michael & Arielle's last trip to Australia?", "Michael", "Arielle", "2"],
+    ["WWhere did Nathan and Jen meet?", "Hunter River Hotel", "Honeysuckle Hotel", "Lochinvar Fire Station", "Newcastle Beach", "1"],
+    ["What is Nathan & Jen's favourite drink?", "Black Coffee", "Iced Coffee", "Beer", "Spirits", "3"],
+    ["How many country/states around the world have Nathan & Jen travelled to?", "3", "15", "10", "7", "4"],
+    ["Where did we get engaged?", "Waratah", "Lochincar Fire Station", "Sydney Harbour Bridge", "ANZAC Memorial Bridge", "4"],
+    ["Who took one month to unpack after Nathan & Jen's last trip to Australia?", "Michael", "Arielle", "2"],
     ["What do Michael and Arielle call their cars?", "Wrandy Rangler & Chris", "MJ & Bertha", "Speedy Silver & JJ Jeep", "Nothing, they are cars", "2"],
     ["What are our middle names?", "Rick & Cindy", "David & Bertha", "Sheila & David", "Sheila & Daniel", "3"],
     ["What team are Michael and Arielle both on?", "Soccer", "Outrigger", "Cheer", "Cricket", "2"],
-    ["Over the years Michael & Arielle have had a lot of adventures together. Which haven't they done?", "Hiked Mt. Cheam", "Hot air balloon ride over Hunter Valley", "Climbed the Sydney Harbour Bridge", "Skied at Whistler", "4"]
+    ["Over the years Nathan & Jen have had a lot of adventures together. Which haven't they done?", "Hiked Mt. Cheam", "Hot air balloon ride over Hunter Valley", "Climbed the Sydney Harbour Bridge", "Skied at Whistler", "4"]
     ];
 
 $(document).ready(function () {
