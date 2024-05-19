@@ -1,15 +1,15 @@
 var counter = 0;
 var right = 0;
 var questions = [
-    ["WWhere did Nathan and Jen meet?", "Hunter River Hotel", "Honeysuckle Hotel", "Lochinvar Fire Station", "Newcastle Beach", "1"],
-    ["What is Nathan & Jen's favourite drink?", "Black Coffee", "Iced Coffee", "Beer", "Spirits", "3"],
-    ["How many country/states around the world have Nathan & Jen travelled to?", "3", "15", "10", "7", "4"],
-    ["Where did we get engaged?", "Waratah", "Lochincar Fire Station", "Sydney Harbour Bridge", "ANZAC Memorial Bridge", "4"],
-    ["Who took one month to unpack after Nathan & Jen's last trip to Australia?", "Michael", "Arielle", "2"],
-    ["What do Michael and Arielle call their cars?", "Wrandy Rangler & Chris", "MJ & Bertha", "Speedy Silver & JJ Jeep", "Nothing, they are cars", "2"],
-    ["What are our middle names?", "Rick & Cindy", "David & Bertha", "Sheila & David", "Sheila & Daniel", "3"],
-    ["What team are Michael and Arielle both on?", "Soccer", "Outrigger", "Cheer", "Cricket", "2"],
-    ["Over the years Nathan & Jen have had a lot of adventures together. Which haven't they done?", "Hiked Mt. Cheam", "Hot air balloon ride over Hunter Valley", "Climbed the Sydney Harbour Bridge", "Skied at Whistler", "4"]
+    ["WWhere did Nathan and Jen meet?", "Time Zone Kotara", "King Street Hotel", "Max Brenner Charlestown", "The Hotel Delaney", "3"],
+    ["What is Nath and Jens middle names?", "Charles and Maree", "Luke and Maree", "James and Louise", "Charles and Louise ", "4"],
+    ["What is Nath and Jens current dog called?", "Peanut", "Macadamia", "Cashew", "Peacan", "1"],
+    ["What is Nath and Jens most purchased supermarket item?", "2L full cream Milk", "3 ply Toliet paper", "12 pack of Eggs", "Toothpaste", "1"],
+    ["Where did Jen and Nath get engaged?", "Customs House", "The Palace", "Anzac Walk", "Nobbys breakwall", "3"],
+    ["What are Jen and Naths favourite cocktail", "Espresso Martini and French Martini", "French Martin and Cosmo", "Espresso Martini and Margarita", "Margarita and Fruit Tangle", "3"],
+    ["What is Nath and Jens house nicknamed as?", "Peanut's house", "The Showroom", "The Palace", "The Temple", "3"],
+    ["Who introduced Jen and Nath to each other?", "Billy", "Jonty", "Athelie", "Michael", "3"],
+    ["What do Jen, Nath, and their dog love the most to do together?", "Go to the beach", "Go camping", "Go hiking", "Go to the park", "2"]
     ];
 
 $(document).ready(function () {
